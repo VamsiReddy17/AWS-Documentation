@@ -1,0 +1,15 @@
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .logo {
+    /* Style for AWS service logos */
+  }
+  
+  .details {
+    /* Style for your name */
+  }
+  
